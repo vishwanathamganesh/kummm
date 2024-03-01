@@ -1,0 +1,13 @@
+body{
+	background: url("bb.png");
+}
+.back{
+	position: absolute;
+	left:50%;
+	top:90%;
+	height:30px;
+	border-radius: 10px;
+	background-color: white;
+	color: black;
+	font-family: sans-serif;
+}
